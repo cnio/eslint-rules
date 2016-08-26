@@ -1,4 +1,4 @@
-## eslint-rules
+# Eslint-rules
 Between Google and Nodejs code style and some changes for company.
 ### Possible Errors
 ```js
